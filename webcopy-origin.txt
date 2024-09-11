@@ -1,0 +1,992 @@
+Uri: https://dzhankoj.amazingame.ru/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/about/garantiya/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\about\garantiya\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/auth/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\auth\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/basket/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\basket\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/bitrix/cache/css/s1/aspro_next/template_f08c8f15f285ab9cee6a1978888f4dca/template_f08c8f15f285ab9cee6a1978888f4dca_v1.css?17224211181034184
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\bitrix\cache\css\s1\aspro_next\template_f08c8f15f285ab9cee6a1978888f4dca\template_f08c8f15f285ab9cee6a1978888f4dca_v1.css
+Content Type: text/css
+
+Uri: https://dzhankoj.amazingame.ru/bitrix/js/intranet/intranet-common.min.css?167464782061199
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\bitrix\js\intranet\intranet-common.min.css
+Content Type: text/css
+
+Uri: https://dzhankoj.amazingame.ru/catalog/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/chekhly_stekla_zapchasti_aksessuary/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\chekhly_stekla_zapchasti_aksessuary\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/chekhly_stekla_zapchasti_aksessuary/aksessuary_dlya_smartfonov_i_planshetov/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\chekhly_stekla_zapchasti_aksessuary\aksessuary_dlya_smartfonov_i_planshetov\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/chekhly_stekla_zapchasti_aksessuary/chekhly_dlya_aksessuarov/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\chekhly_stekla_zapchasti_aksessuary\chekhly_dlya_aksessuarov\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/chekhly_stekla_zapchasti_aksessuary/chekhly_dlya_smartfonov/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\chekhly_stekla_zapchasti_aksessuary\chekhly_dlya_smartfonov\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/chekhly_stekla_zapchasti_aksessuary/chekhly_i_stekla_dlya_planshetov/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\chekhly_stekla_zapchasti_aksessuary\chekhly_i_stekla_dlya_planshetov\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/chekhly_stekla_zapchasti_aksessuary/zapchasti/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\chekhly_stekla_zapchasti_aksessuary\zapchasti\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/chekhly_stekla_zapchasti_aksessuary/zashchitnye_plenki_i_stekla/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\chekhly_stekla_zapchasti_aksessuary\zashchitnye_plenki_i_stekla\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/compare.php
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\compare.php.html
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/avtotovary/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\avtotovary\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/dlya_domashnikh_pitomtsev/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\dlya_domashnikh_pitomtsev\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/elektroshvabry_elektroveniki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\elektroshvabry_elektroveniki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/elektrotekhnika_i_lampochki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\elektrotekhnika_i_lampochki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/gigiena_i_ukhod_za_soboy/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\gigiena_i_ukhod_za_soboy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/instrumenty/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\instrumenty\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/ochistiteli_uvlazhniteli_vozdukha/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\ochistiteli_uvlazhniteli_vozdukha\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/pylesosy_1/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\pylesosy_1\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/sanitarnaya_obrabotka_i_obezzarazhivanie/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\sanitarnaya_obrabotka_i_obezzarazhivanie\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/smennye_filtry_shchetki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\smennye_filtry_shchetki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/svetilniki_lampy/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\svetilniki_lampy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/tekhnika_dlya_kukhni/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\tekhnika_dlya_kukhni\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/testery_tonometry/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\testery_tonometry\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/umnyy_dom/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\umnyy_dom\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/utyugi_otparivateli/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\utyugi_otparivateli\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_doma/ventilyatory_konditsionery/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_doma\ventilyatory_konditsionery\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_sporta_i_otdykha/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_sporta_i_otdykha\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_sporta_i_otdykha/dlya_shkoly/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_sporta_i_otdykha\dlya_shkoly\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_sporta_i_otdykha/ryukzaki_muzhskie/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_sporta_i_otdykha\ryukzaki_muzhskie\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_sporta_i_otdykha/sportinventar/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_sporta_i_otdykha\sportinventar\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_sporta_i_otdykha/sredstva_zashchity/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_sporta_i_otdykha\sredstva_zashchity\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_sporta_i_otdykha/sumki_ryukzaki_koshelki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_sporta_i_otdykha\sumki_ryukzaki_koshelki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_sporta_i_otdykha/termosy/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_sporta_i_otdykha\termosy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_sporta_i_otdykha/velosipedy_giroskutery_samokaty/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_sporta_i_otdykha\velosipedy_giroskutery_samokaty\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/dlya_sporta_i_otdykha/zashchitnye_ochki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\dlya_sporta_i_otdykha\zashchitnye_ochki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/filmy_i_muzyka/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\filmy_i_muzyka\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/filmy_i_muzyka/audiokassety/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\filmy_i_muzyka\audiokassety\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/filmy_i_muzyka/blu_ray/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\filmy_i_muzyka\blu_ray\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/filmy_i_muzyka/dvd/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\filmy_i_muzyka\dvd\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/filmy_i_muzyka/muzyka/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\filmy_i_muzyka\muzyka\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/filmy_i_muzyka/vhs_videokassety/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\filmy_i_muzyka\vhs_videokassety\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/breloki_detskie/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\breloki_detskie\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/figurki_i_aksessuary/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\figurki_i_aksessuary\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/figurki_zhivotnykh/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\figurki_zhivotnykh\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/igrovye_nabory_i_treki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\igrovye_nabory_i_treki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/igrushechnoe_oruzhie/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\igrushechnoe_oruzhie\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/igrushechnye_mashinki_i_tekhnika/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\igrushechnye_mashinki_i_tekhnika\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/igrushki_dlya_ulitsy/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\igrushki_dlya_ulitsy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/konstruktory_plastilin/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\konstruktory_plastilin\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/kukly_figurki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\kukly_figurki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/myagkie_igrushki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\myagkie_igrushki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/nastolnye_igry/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\nastolnye_igry\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/pazly/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\pazly\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/pazly_3d/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\pazly_3d\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/razvivayushchie_igrushki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\razvivayushchie_igrushki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/sbornye_modeli/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\sbornye_modeli\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/transformery/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\transformery\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/igrushki/upravlyaemye_modeli/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\igrushki\upravlyaemye_modeli\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/kollektsionirovanie/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\kollektsionirovanie\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/kollektsionirovanie/kollektsionnye_modeli/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\kollektsionirovanie\kollektsionnye_modeli\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/kollektsionirovanie/video_igry/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\kollektsionirovanie\video_igry\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/noutbuki_i_aksessuary/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\noutbuki_i_aksessuary\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/noutbuki_i_aksessuary/bloki_pitaniya_dlya_noutbukov/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\noutbuki_i_aksessuary\bloki_pitaniya_dlya_noutbukov\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/noutbuki_i_aksessuary/noutbuki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\noutbuki_i_aksessuary\noutbuki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/noutbuki_i_aksessuary/sumki_ryukzaki_dlya_noutbuka/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\noutbuki_i_aksessuary\sumki_ryukzaki_dlya_noutbuka\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/noutbuki_i_aksessuary/zapchasti_dlya_noutbukov/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\noutbuki_i_aksessuary\zapchasti_dlya_noutbukov\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/noutbuki_i_aksessuary/zapchasti_dlya_noutbukov/klaviatury_dlya_noutbukov/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\noutbuki_i_aksessuary\zapchasti_dlya_noutbukov\klaviatury_dlya_noutbukov\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/bloki_pitaniya/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\bloki_pitaniya\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/dzhoystiki_geympady_ruli/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\dzhoystiki_geympady_ruli\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/igrovye_garnitury/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\igrovye_garnitury\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/igrovye_klaviatury/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\igrovye_klaviatury\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/igrovye_komplekty/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\igrovye_komplekty\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/igrovye_myshi/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\igrovye_myshi\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/komplektuyushchie_dlya_pk/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\komplektuyushchie_dlya_pk\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/materinskie_platy/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\materinskie_platy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/monitory/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\monitory\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/monobloki_pk/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\monobloki_pk\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/operativnaya_pamyat/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\operativnaya_pamyat\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/pk_geyming/sistemy_okhlazhdeniya/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\pk_geyming\sistemy_okhlazhdeniya\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/raznoe_4/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\raznoe_4\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/raznoe_4/kartonnye_korobki_upakovochnaya_tara/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\raznoe_4\kartonnye_korobki_upakovochnaya_tara\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/raznoe_4/kraska_dlya_modelirovaniya/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\raznoe_4\kraska_dlya_modelirovaniya\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/raznoe_4/sezonnyy_tovar/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\raznoe_4\sezonnyy_tovar\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/raznoe_4/spinnery/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\raznoe_4\spinnery\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/raznoe_4/utsenka/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\raznoe_4\utsenka\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/apple/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\apple\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/apple/iphone_xs_xs_max/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\apple\iphone_xs_xs_max\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/drugie_marki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\drugie_marki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/huawei_honor_2/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\huawei_honor_2\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/huawei_honor_2/huawei_nova/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\huawei_honor_2\huawei_nova\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/planshety/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\planshety\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/realme/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\realme\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/samsung/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\samsung\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/samsung/galaxy_a01_a11_a12_a21_a31_a41_a51_a61_a71_a81_a91/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\samsung\galaxy_a01_a11_a12_a21_a31_a41_a51_a61_a71_a81_a91\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/xiaomi/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\xiaomi\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/xiaomi/mi9_se_9t_lite/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\xiaomi\mi9_se_9t_lite\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/xiaomi/pocophone/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\xiaomi\pocophone\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/smartfony_i_planshety/xiaomi/redmi_5_5/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\smartfony_i_planshety\xiaomi\redmi_5_5\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/elementy_odezhdy/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\elementy_odezhdy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/kalendari_bloknoty/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\kalendari_bloknoty\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/kollektsionnye_i_igrovye_figurki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\kollektsionnye_i_igrovye_figurki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/kollektsionnye_korobki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\kollektsionnye_korobki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/komiksy_knigi_artbuki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\komiksy_knigi_artbuki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/kovriki_dlya_myshi/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\kovriki_dlya_myshi\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/kruzhki_magnity_nakleyki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\kruzhki_magnity_nakleyki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/maski_karnavalnye/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\maski_karnavalnye\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/nakleyki_stikery/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\nakleyki_stikery\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/podarochnye_nabory/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\podarochnye_nabory\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/prochee_suveniry_i_merch/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\prochee_suveniry_i_merch\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/stilbuki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\stilbuki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/svetilniki_nochniki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\svetilniki_nochniki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/zhetony_breloki_braslety/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\zhetony_breloki_braslety\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/suveniry_i_merch/znachki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\suveniry_i_merch\znachki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/audio_i_video/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\audio_i_video\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/diski_nakopiteli_fleshki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\diski_nakopiteli_fleshki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/fitnes_braslety/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\fitnes_braslety\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/fonari/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\fonari\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/gadzhety/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\gadzhety\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/ibp_setevye_filtry/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\ibp_setevye_filtry\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/kabeli_adaptery/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\kabeli_adaptery\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/kolonki_mikrofony/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\kolonki_mikrofony\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/lampy_dlya_semki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\lampy_dlya_semki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/myshi_klaviatury/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\myshi_klaviatury\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/naushniki_garnitury_mikrofony/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\naushniki_garnitury_mikrofony\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/patch_kordy/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\patch_kordy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/perekhodniki_razvetviteli_adaptery/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\perekhodniki_razvetviteli_adaptery\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/printery_mfu/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\printery_mfu\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/programmy_i_soft/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\programmy_i_soft\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/raskhodnye_materialy/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\raskhodnye_materialy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/setevoe_oborudovanie_routery/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\setevoe_oborudovanie_routery\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/televizory/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\televizory\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/umnye_chasy/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\umnye_chasy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/zaryadnye_ustroystva/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\zaryadnye_ustroystva\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/tsifrovaya_tekhnika/zaryadnye_ustroystva_dlya_aa_aaa_akkumulyatorov/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\tsifrovaya_tekhnika\zaryadnye_ustroystva_dlya_aa_aaa_akkumulyatorov\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/aksessuary_dlya_pristavok/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\aksessuary_dlya_pristavok\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/aksessuary_dlya_pristavok/bloki_pitaniya_pristavki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\aksessuary_dlya_pristavok\bloki_pitaniya_pristavki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/aksessuary_dlya_pristavok/chekhly_dlya_geympadov/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\aksessuary_dlya_pristavok\chekhly_dlya_geympadov\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/aksessuary_dlya_pristavok/garnitury_i_audio_dlya_pristavok/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\aksessuary_dlya_pristavok\garnitury_i_audio_dlya_pristavok\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/aksessuary_dlya_pristavok/kabeli_adaptery_perekhodniki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\aksessuary_dlya_pristavok\kabeli_adaptery_perekhodniki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/aksessuary_dlya_pristavok/krepleniya_podstavki_zapchasti/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\aksessuary_dlya_pristavok\krepleniya_podstavki_zapchasti\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/aksessuary_dlya_pristavok/stiki_nakladki_dlya_geympadov/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\aksessuary_dlya_pristavok\stiki_nakladki_dlya_geympadov\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/aksessuary_dlya_pristavok/sumki_dlya_igrovykh_pristavok/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\aksessuary_dlya_pristavok\sumki_dlya_igrovykh_pristavok\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/aksessuary_dlya_pristavok/zaryadnye_stantsii_adaptery_perekhodniki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\aksessuary_dlya_pristavok\zaryadnye_stantsii_adaptery_perekhodniki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/aksessuary_dlya_pristavok/zaryadnye_ustroystva_i_akkumulyatory/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\aksessuary_dlya_pristavok\zaryadnye_ustroystva_i_akkumulyatory\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/aksessuary_dlya_pristavok/zashchitnye_chekhly_keysy_nakleyki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\aksessuary_dlya_pristavok\zashchitnye_chekhly_keysy_nakleyki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/aksessuary_dlya_pristavok/zhestkie_diski_karty_pamyati/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\aksessuary_dlya_pristavok\zhestkie_diski_karty_pamyati\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/geympady_dlya_8_16_bit/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\geympady_dlya_8_16_bit\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/geympady_dlya_drugikh_pristavok/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\geympady_dlya_drugikh_pristavok\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/geympady_dlya_nintendo_wii_wiiu/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\geympady_dlya_nintendo_wii_wiiu\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/geympady_dlya_sony_ps2/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\geympady_dlya_sony_ps2\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/geympady_dlya_sony_ps3/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\geympady_dlya_sony_ps3\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/geympady_dlya_sony_ps4/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\geympady_dlya_sony_ps4\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/geympady_dlya_sony_ps5/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\geympady_dlya_sony_ps5\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/geympady_dlya_xbox_360/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\geympady_dlya_xbox_360\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/geympady_dlya_xbox_one/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\geympady_dlya_xbox_one\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/geympady_dlya_xbox_original/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\geympady_dlya_xbox_original\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/geympady_dlya_xbox_series_x_s/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\geympady_dlya_xbox_series_x_s\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/geympady/geympady_kontrollery_dlya_nintendo_switch/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\geympady\geympady_kontrollery_dlya_nintendo_switch\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_kontrollery/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_kontrollery\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_kontrollery/gitary_i_drugie_ritm_kontrollery/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_kontrollery\gitary_i_drugie_ritm_kontrollery\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_kontrollery/klaviatury_myshi_pulty/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_kontrollery\klaviatury_myshi_pulty\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_kontrollery/kontrollery_dvizheniya/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_kontrollery\kontrollery_dvizheniya\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_kontrollery/pistolety_avtomaty/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_kontrollery\pistolety_avtomaty\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_kontrollery/ruli_i_dzhoystiki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_kontrollery\ruli_i_dzhoystiki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_kontrollery/sensory_dvizheniya_kamery/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_kontrollery\sensory_dvizheniya_kamery\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_kontrollery/virtualnaya_realnost_vr_3d/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_kontrollery\virtualnaya_realnost_vr_3d\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/16_bit_pristavki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\16_bit_pristavki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/8_bit_pristavki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\8_bit_pristavki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/drugie_pristavki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\drugie_pristavki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/nintendo_switch_pristavki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\nintendo_switch_pristavki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/playstation_1_ps_one/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\playstation_1_ps_one\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/playstation_2_ps2/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\playstation_2_ps2\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/playstation_3_ps3/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\playstation_3_ps3\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/playstation_4_pro/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\playstation_4_pro\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/playstation_4_ps4/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\playstation_4_ps4\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/playstation_5_ps5/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\playstation_5_ps5\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/retro_genesis/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\retro_genesis\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/super_nintendo_pristavki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\super_nintendo_pristavki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/vita/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\vita\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/wii_wiiu/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\wii_wiiu\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/xbox_360_pristavki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\xbox_360_pristavki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/xbox_one_2/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\xbox_one_2\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/igrovye_pristavki/xbox_series_x_s/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\igrovye_pristavki\xbox_series_x_s\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/karty_oplaty/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\karty_oplaty\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/karty_oplaty/playstation_plus/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\karty_oplaty\playstation_plus\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/karty_oplaty/xbox_game_pass/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\karty_oplaty\xbox_game_pass\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/karty_oplaty/xbox_live_gold_game_pass_ea_access/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\karty_oplaty\xbox_live_gold_game_pass_ea_access\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/kody_na_zagruzku/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\kody_na_zagruzku\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/kody_na_zagruzku/dopolneniya/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\kody_na_zagruzku\dopolneniya\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/kody_na_zagruzku/igry_polnye_versii/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\kody_na_zagruzku\igry_polnye_versii\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/mobilnyy_geyming/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\mobilnyy_geyming\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/retro_igry/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\retro_igry\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/retro_igry/aksessuary_k_retro_pristavkam/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\retro_igry\aksessuary_k_retro_pristavkam\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/retro_igry/retro_igrovye_pristavki/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\retro_igry\retro_igrovye_pristavki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/retro_igry/retro_kartridzhi/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\retro_igry\retro_kartridzhi\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/16_bit_dreamcast/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\16_bit_dreamcast\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/16_bit_kartridzhi/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\16_bit_kartridzhi\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/8_bit_kartridzhi/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\8_bit_kartridzhi\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/demoversii_ps2_ps3_ps4_xbox_one/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\demoversii_ps2_ps3_ps4_xbox_one\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/igry_dlya_pk/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\igry_dlya_pk\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/nintendo_3ds/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\nintendo_3ds\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/nintendo_ds_1/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\nintendo_ds_1\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/nintendo_gamecube/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\nintendo_gamecube\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/nintendo_game_boy_advance_color/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\nintendo_game_boy_advance_color\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/nintendo_switch/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\nintendo_switch\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/nintendo_wii_wiiu/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\nintendo_wii_wiiu\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/playstation_2/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\playstation_2\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/playstation_3/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\playstation_3\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/playstation_4444/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\playstation_4444\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/playstation_5/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\playstation_5\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/playstation_one_1/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\playstation_one_1\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/playstation_portable_psp/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\playstation_portable_psp\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/playstation_vita/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\playstation_vita\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/xbox_360/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\xbox_360\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/xbox_360_one_klyuchi_dlya_zapuska/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\xbox_360_one_klyuchi_dlya_zapuska\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/xbox_one_series/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\xbox_one_series\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/xbox_original/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\xbox_original\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/catalog/videoigry_i_pristavki/videoigry/xbox_series_x/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\catalog\videoigry_i_pristavki\videoigry\xbox_series_x\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/company/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\company\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/company/licenses/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\company\licenses\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/company/news/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\company\news\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/company/vacancy/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\company\vacancy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/favicon.ico?1725427342
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://dzhankoj.amazingame.ru/include/licenses_detail.php
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\include\licenses_detail.php.html
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/prokat/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\prokat\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/trade-in/
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\trade-in\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoj.amazingame.ru/upload/CNext/1fc/1fc9251b4a8c277f5f512efcbcfa128a.png
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\upload\CNext\1fc\1fc9251b4a8c277f5f512efcbcfa128a.png
+Content Type: image/png
+
+Uri: https://dzhankoj.amazingame.ru/upload/CNext/981/xkzf8r0xca9u0rfi87cqazqyvgk695x3/amazingame_logo_2023.webp
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\upload\CNext\981\xkzf8r0xca9u0rfi87cqazqyvgk695x3\amazingame_logo_2023.webp
+Content Type: image/webp
+
+Uri: https://dzhankoj.amazingame.ru/upload/iblock/2db/2dbe0bd8c3ba7f688d6963813dc1c125.jpg
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\upload\iblock\2db\2dbe0bd8c3ba7f688d6963813dc1c125.jpg
+Content Type: image/jpeg
+
+Uri: https://dzhankoj.amazingame.ru/upload/iblock/ba6/ba630dd78f8d5a5dc08e17fa4ef0092a.jpg
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\upload\iblock\ba6\ba630dd78f8d5a5dc08e17fa4ef0092a.jpg
+Content Type: image/jpeg
+
+Uri: https://dzhankoj.amazingame.ru/upload/iblock/e7b/e7b820ef9e9bf22591b2086bc1460b79.jpg
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\upload\iblock\e7b\e7b820ef9e9bf22591b2086bc1460b79.jpg
+Content Type: image/jpeg
+
+Uri: https://dzhankoj.amazingame.ru/upload/iblock/fb7/fb7de992d13fa092375d06af39d92696.jpg
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\upload\iblock\fb7\fb7de992d13fa092375d06af39d92696.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,500,600,700,800&subset=latin,cyrillic-ext
+File Name: C:\Downloaded Web Sites\dzhankoj.amazingame.ru\css
+Content Type: text/css
+
